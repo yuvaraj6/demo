@@ -1,8 +1,4 @@
-# Repo to learn Docker with examples. Contributions are most welcome.
 
-## If you found this repo useful, give it a STAR 🌠
-
-You can watch the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
 
 
 ## What is a container ?
@@ -251,31 +247,6 @@ This message shows that your installation appears to be working correctly.
 
 
 ## Great Job, Now start with the examples folder to write your first Dockerfile and move to the next examples. Happy Learning :)
-
-### Clone this repository and move to example folder
-
-```
-git clone https://github.com/iam-veeramalla/Docker-Zero-to-Hero
-cd  examples
-```
-
-### Login to Docker [Create an account with https://hub.docker.com/]
-
-```
-docker login
-```
-
-```
-Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
-Username: abhishekf5
-Password:
-WARNING! Your password will be stored unencrypted in /home/ubuntu/.docker/config.json.
-Configure a credential helper to remove this warning. See
-https://docs.docker.com/engine/reference/commandline/login/#credentials-store
-
-Login Succeeded
-```
-
 ### Build your first Docker Image
 
 You need to change the username accoringly in the below command
